@@ -10,6 +10,7 @@ Project | Link to project ideas page
 ------- | ---------------------------
 [SAMPLE] [The GloriousPickle Project](https://example.com) | [2022 PickleDoc Ideas](https://example.com)
 [cert-manager](https://cert-manager.io/) | [2022 cert-manager Ideas](https://cert-manager.io/docs/contributing/google-season-of-docs/2022/)
+[erxes](https://github.com/erxes) | [2022 erxes Ideas](https://www.erxes.org/gsod)
 [ExpressLRS](https://github.com/ExpressLRS) | [2022 ExpressLRS Ideas](https://www.expresslrs.org/2.0/gsod/)
 [FluxML](https://fluxml.ai) | [2022 FluxML Ideas](https://fluxml.ai/gsod.html)
 [FOSSology](https://github.com/fossology/fossology) | [2022 FOSSology Ideas](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2022)
@@ -23,5 +24,4 @@ Project | Link to project ideas page
 [SciML](https://sciml.ai) | [2022 SciML Ideas](https://sciml.ai/gsod/)
 [OpenMined PySyft](https://github.com/OpenMined/PySyft) | [2022 PySyft Ideas](https://github.com/OpenMined/PySyft/blob/dev/docs/GSOD22.md)
 [OpenMined PySyft](https://github.com/OpenMined/PySyft) | [2022 PySyft Ideas](https://github.com/OpenMined/PySyft/blob/dev/docs/GSOD22.md)
-[erxes](https://github.com/erxes) | [2022 erxes Ideas](https://www.erxes.org/gsod)
 [STE\|\|AR GROUP](https://github.com/STEllAR-GROUP/hpx/)  | [2022 STE\|\|AR GROUP Ideas](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2022-Project-Ideas)
